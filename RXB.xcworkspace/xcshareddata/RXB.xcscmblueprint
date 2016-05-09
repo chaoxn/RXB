@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f10e884e-3091-d34a-bfa7-77d444465f8d++5574" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f10e884e-3091-d34a-bfa7-77d444465f8d++5574" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "11AC7953-86E1-43ED-8EEB-7161939A2766",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f10e884e-3091-d34a-bfa7-77d444465f8d++5574" : "RXB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RXB",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RXB.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/121.40.30.214\/svn\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f10e884e-3091-d34a-bfa7-77d444465f8d++5574"
+    }
+  ]
+}
